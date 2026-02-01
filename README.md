@@ -1,4 +1,4 @@
-![Uploading background.gif…]()
+![background](https://github.com/user-attachments/assets/5ec7da13-2959-408f-90cf-117ffb7b0c36)
 
 # Hi there 👋, I'm Eng Anas Radi
 
