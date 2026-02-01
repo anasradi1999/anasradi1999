@@ -5,8 +5,6 @@
 I am a software engineer specializing in developing high-performance, cross-platform mobile applications using Google's **Flutter** framework and **Dart** language. I focus on delivering seamless user experiences, appealing interfaces, and clean, maintainable code.
 
 ---
-anguages and Tools: 
-android arduino c css3 dart figma firebase flutter git html5 java javascript mssql mysql php postgresql
 ## 🛠️ Core Skills & Technologies:
 
 *   **Languages:** Dart, Java, Kotlin, Php
